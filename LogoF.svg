@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.1 r15371"
+   sodipodi:docname="LogoF.svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35"
+     inkscape:cx="400"
+     inkscape:cy="560"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1366"
+     inkscape:window-height="705"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#916f6f;stroke-width:0.26458332;paint-order:markers stroke fill"
+       id="rect10"
+       width="187.47618"
+       height="274.41071"
+       x="12.095238"
+       y="12.761905" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="35.529766"
+       y="64.166672"
+       id="text14"><tspan
+         sodipodi:role="line"
+         id="tspan12"
+         x="35.529766"
+         y="73.822166"
+         style="stroke-width:0.26458332" /><tspan
+         sodipodi:role="line"
+         x="35.529766"
+         y="87.051331"
+         style="stroke-width:0.26458332"
+         id="tspan16" /><tspan
+         sodipodi:role="line"
+         x="35.529766"
+         y="106.07379"
+         style="font-size:16.93333244px;stroke-width:0.26458332"
+         id="tspan18">Grissel Castro M.</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="27.97024"
+       y="135.22618"
+       id="text22"><tspan
+         sodipodi:role="line"
+         id="tspan20"
+         x="27.97024"
+         y="135.22618"
+         style="font-size:14.11111069px;stroke-width:0.26458332">Analista  Programador</tspan></text>
+    <ellipse
+       style="fill:#916f6f;stroke-width:0.26458332;paint-order:markers stroke fill"
+       id="path24"
+       cx="32.883926"
+       cy="165.84227"
+       rx="7.1815472"
+       ry="13.985119" />
+    <path
+       sodipodi:type="star"
+       style="fill:#ff8080;stroke-width:0.26458332;paint-order:markers stroke fill"
+       id="path26"
+       sodipodi:sides="5"
+       sodipodi:cx="111.125"
+       sodipodi:cy="215.35713"
+       sodipodi:r1="57.497124"
+       sodipodi:r2="33.824234"
+       sodipodi:arg1="0.68295431"
+       sodipodi:arg2="1.3112728"
+       inkscape:flatsided="false"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="m 155.72619,251.64285 -35.92121,-3.59418 -29.407219,20.93962 -7.682003,-35.27377 -29.002087,-21.49723 31.173475,-18.20621 11.482941,-34.22563 26.948273,24.02171 36.09893,0.34462 -14.51853,33.05244 z"
+       inkscape:transform-center-x="4.5595195"
+       inkscape:transform-center-y="-0.97026531" />
+  </g>
+</svg>
